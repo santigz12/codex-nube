@@ -1,0 +1,7 @@
+Escena: Assets/Scenes/PlantaBaja_TerceraPersona.unity
+Respaldo: Assets/Scenes/Respaldos/PlantaBaja_AntesCamara_20261118_201951.unity
+Objetivo: Man relax
+Seguimiento al mover objetivo: True
+Camaras habilitadas: 1
+Posicion objetivo: (-1.92, 0.04, -4.79)
+Posicion camara: (-1.92, 2.38, -8.65)

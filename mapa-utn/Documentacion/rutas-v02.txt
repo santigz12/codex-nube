@@ -1,0 +1,4 @@
+Rutas completas por el grafo con CharacterController (prueba automatizada, sin teletransporte entre nodos).
+aula-118: PASS; nodos=18
+lab-159: PASS; nodos=19
+cafeteria: PASS; nodos=7

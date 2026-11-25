@@ -1,0 +1,3 @@
+UTN_ROOFS_WALK=True
+UTN_SMOKE walking distance=3 rooms=62
+UTN_ROOFS_MAP_HIDDEN=True
